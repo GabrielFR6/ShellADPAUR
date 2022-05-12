@@ -1,4 +1,3 @@
-  GNU nano 6.2                                                  ShellADPAUR.sh                                                  Modificado  
 #!/bin/bash
 echo "Caso em algum momento o App Peça a senha do SUDO, Por favor digite para que possa continuar a instalaçao!"
 
